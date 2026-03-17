@@ -25,7 +25,7 @@ Admin can manage products and users.
 ### Backend
 cd backend  
 in index.js file add your database username and password 
-node .\index.js 
+then run node .\index.js 
 <img width="1462" height="914" alt="Screenshot 2026-02-25 193505" src="https://github.com/user-attachments/assets/fb6c0ef9-1cb7-4a75-b7eb-e5f898d34b41" />
 
 
